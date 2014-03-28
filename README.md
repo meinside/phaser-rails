@@ -28,7 +28,11 @@ Or install it yourself as:
 
 ## Usage
 
-Add `//= require phaser.min` to your `app/assets/javascripts/application.js`.
+Add `//= require phaser.min` or
+
+`//= require phaser`
+
+to your `app/assets/javascripts/application.js`.
 
 ## Contributing
 
