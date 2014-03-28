@@ -10,7 +10,7 @@ If it's outdated, please let me know!
 
 Version of this gem will be in <b>phaser-version.gem-patch-version</b> format.
 
-(ex: Phaser's version is 2.0.1 and this gem's patch version is 0, it will be '2.0.1.0')
+(ex: when Phaser's version is 2.0.1 and this gem's patch version is 0, it will be '2.0.1.0')
 
 ## Installation
 
