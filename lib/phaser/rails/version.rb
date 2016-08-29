@@ -1,5 +1,5 @@
 module Phaser
   module Rails
-    VERSION = "2.6.1.0"
+    VERSION = "2.6.2.0"
   end
 end
